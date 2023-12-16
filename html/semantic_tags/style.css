@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+article{
+    background-color: yellow;
+}
+aside{
+    background-color: pink;
+}
+figure{
+    border: 5px solid;
+    color: red;
+}
+#us{
+    border: 5px solid;
+    color: antiquewhite;
+}
+#caption{
+    color: black;
+}
