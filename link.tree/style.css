@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+h1,h2, .poppins{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
